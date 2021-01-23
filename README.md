@@ -1,6 +1,6 @@
 # Basic-Python-Project
 Python voice assistant
-Works best on Windows due to Microsoft Speech API (sepi5). 
+Works best on Windows due to Microsoft Speech API (sapi5). 
 To make this work on linux or mac, install gtts or espeak.
 List of actions performed by mark:
 1. Greet user(Good morning, afternoon or evening.)
